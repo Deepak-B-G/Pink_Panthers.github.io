@@ -1,29 +1,29 @@
 # Hello and welcome to our website.
-This is a website which will show and guide you about jaipur.
+This is a website that will show and guide you about Jaipur.
 
 ## Purpose of this website
-A static website under development that provides insights into the cultural heritage and tourism facilities available in the pink city of Jaipur, Rajasthan. Explore tab enlists all the tourist attraction places in Jaipur for one to visit and is assisted by providing its location on the map. Hotels tab providing a list of well reputed hotels along with their pricing at the time of development. Cuisines tab providing a list of popular foods of Jaipur.
+A static website under development that provides insights into the cultural heritage and tourism facilities available in the pink city of Jaipur, Rajasthan. Explore tab enlists all the tourist attractions and places in Jaipur for one to visit and is assisted by providing its location on the map. The hotels tab provides a list of well-reputed hotels along with their pricing at the time of development. The cuisines tab provides a list of popular foods of Jaipur.
 
 Technologies used: 
--HTMl
+-HTML
 -CSS
--Google analytics
+-Google Analytics
 -Software testing tools (TBD)
 
-Complete setup/installation instructions: A hardware with web browser and a stable internet connection.
+Complete setup/installation instructions: A hardware with a web browser and a stable internet connection.
 
 
 
 
-## How to visit the website ?
+## How to visit the website?
 Use the below link to visit the website
 
-https://deepak-b-g.github.io/Pink_Panthers.github.io/
+http://ppwebsitestorage.s3-website.ap-south-1.amazonaws.com/
 
 
 ## Development of the website.
 
-The website is primarily built on HTML, CSS and Java Script languages.
+The website is primarily built on HTML, CSS, and JavaScript languages.
 
 HTML - The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. 
 
@@ -39,18 +39,16 @@ Postman - Postman is an API client that makes it easy for developers to create, 
 
 ## Deployment of the website
 
-The deployment is done using github pages 
-
-GitHub Pages - GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
+This website is hosted on Amazon Web Services (AWS) using Amazon S3 for storing static assets. The deployment process involved creating an S3 bucket, uploading static files, configuring static website hosting, and setting up public access permissions. Optional integration with Amazon CloudFront for content delivery and custom domain configuration was also implemented.
 
 ## Know Bugs
 
- Our Services, Privacy Policy, Affiliate Program under Company section is still under development.
+ Our Services, Privacy Policy, and Affiliate Program under the Company section is still under development.
  
  FAQ and Contact Us under Get Help is still under development.
  
- Links to our social media sites yet to be provided.
+ Links to our social media sites are yet to be provided.
 
  The Navigation  bar is unresponsive during the video runtime.
  
-HI.....
+
